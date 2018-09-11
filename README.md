@@ -1,5 +1,3 @@
-saarwe
-204175137 Saar Weitzman
 
 This software is a terminal (shell/bash) simulator with linux command
 
